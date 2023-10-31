@@ -20,13 +20,13 @@ GitHub Classroom is an amazing tool to streamline the coding education process. 
 
 1. [Getting Started with GitHub Classroom](https://classroom.github.com/help)
 2. Explore some [example assignments](https://github.com/howest-gp-chain5/example-assignments) to get an idea of how GitHub Classroom can be utilized.
-3. Join our [Discussion Forum](https://github.com/howest-gp-chain5/discussions) to share ideas, ask questions, and interact with other educators across programs.
+3. Join our [Discussion Forum](https://github.com/orgs/howest-gp-chain5/discussions) to share ideas, ask questions, and interact with other educators across programs.
 
 ## 💻 Collaboration and Sharing
 
 We believe in the power of working together. So let's kick-off with any ideas you might have to collaborate!
 
-1. Participate in our [Community Discussions](https://github.com/howest-gp-chain5/discussions) to share experiences, ask questions, and offer support.
+1. Participate in our [Community Discussions](https://github.com/orgs/howest-gp-chain5/discussions) to share experiences, ask questions, and offer support.
 
 ## Events and Workshops
 

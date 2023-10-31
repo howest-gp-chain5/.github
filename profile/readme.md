@@ -2,7 +2,7 @@
 
 Hello there! Welcome to our collaborative hub where all associate degree programs can unite to explore, learn, and grow with GitHub and GitHub Classroom. Our mission is to foster a culture of collaboration and sharing of ideas across all programs, promoting an open and inclusive environment for working together.
 
-This GitHub organisation was created in light of the (Chain 5 conference 2023)[https://github.com/howest-gp-chain5] @Leeuwarden.
+This GitHub organisation was created in light of the [Chain 5 conference 2023](https://github.com/howest-gp-chain5) @Leeuwarden.
 
 ## 🚀 Getting Started with GitHub
 
